@@ -23,6 +23,10 @@ The above changes will lead to backlinks being sent to 404 error pages, which te
 
 For questions and support, please post them at the [plugin page](http://nimrodflores.com/backlinks-saver). I can't provide quick help if you post your questions in the forum as I am not always in the forums.
 
+*Important Note*: The redirection will not work if you’re using the WordPress default permalinks structure. ie: `http://www.yoursite.com/?p=123`
+
+Make sure you use any of the other options for permalink structure.
+
 
 == Installation ==
 Manual installation:
@@ -38,6 +42,10 @@ Automatic Installation:
 1. From the search results, look for "Backlinks Saver", then click the "Install Now" link below it.
 1. Activate the plugin in the "Plugins" menu.
 1. Enjoy! No more funky configurations needed.
+
+*Important Note*: The redirection will not work if you’re using the WordPress default permalinks structure. ie: `http://www.yoursite.com/?p=123`
+
+Make sure you use any of the other options for permalink structure.
 
 == Changelog ==
 = 1.0 =
